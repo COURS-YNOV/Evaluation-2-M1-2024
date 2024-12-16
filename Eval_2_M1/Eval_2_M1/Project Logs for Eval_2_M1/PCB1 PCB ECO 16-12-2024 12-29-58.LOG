@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=In_raw Pin=D1-C
+Removed Pin From Net: NetName=In_raw Pin=K1-1
+Added Pin To Net: NetName=Out_filtrage Pin=D1-C
+Added Pin To Net: NetName=Out_filtrage Pin=K1-1
