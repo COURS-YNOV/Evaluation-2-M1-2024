@@ -1,0 +1,99 @@
+Added Component: Designator=10k(RESC1005X06N)
+Added Component: Designator=10uc(CAPC1005X06N)
+Added Component: Designator=B1(RESC2212X50N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB12K00103JBB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb12k00103jbb/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA6/551314.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB12K00103JBB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-NB12K00103JBB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/NB12K00103JBB/?qs=4%252B6%252BTdINQeDPvI%252BQUQjJ3Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B2(SOIC127P780X200-14N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM324NSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm324nsr/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/LM324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM324NSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LM324NSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM324NSR?qs=VBduBm9rCJQcjq4eh95DkA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B3(PTV1124420AB104)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/PTVPTT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "20.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV112-4420A-B104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV1124420AB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV112-4420A-B104?qs=nqw9FAyaR8PT4wHHFlLdhA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPC1005X06N)
+Added Component: Designator=D1(SOD3616X130N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BZT52-Q_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BZT52-C5V1-QX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BZT52-C5V1-QX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BZT52-C5V1-QX?qs=rQFj71Wb1eWpKfJh0U4RGA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD3616X130N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BZT52-Q_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BZT52-C5V1-QX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BZT52-C5V1-QX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BZT52-C5V1-QX?qs=rQFj71Wb1eWpKfJh0U4RGA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(PJ1021SMTTR)
+Add component (AddParameter): Name = "Geometry.Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADC-028-1-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "737-ADC-028-1-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.fr/ProductDetail/Adam-Tech/ADC-028-1-T-R?qs=TTVbHWoAP%2FSiqsZeR9Co0Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1005X06N)
+Added Component: Designator=R2(RESC1005X06N)
+Added Component: Designator=R3(RESC1005X06N)
+Added Component: Designator=R4(RESC1005X06N)
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B2-11
+Added Pin To Net: NetName=GND Pin=B3-A3
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net10k_1 Pin=10k-1
+Added Pin To Net: NetName=Net10k_1 Pin=10uc-1
+Added Pin To Net: NetName=Net10k_1 Pin=C1-1
+Added Pin To Net: NetName=Net10k_1 Pin=R1-1
+Added Net: Name=Net10k_1
+Added Pin To Net: NetName=Net10k_2 Pin=10k-2
+Added Pin To Net: NetName=Net10k_2 Pin=B2-3
+Added Net: Name=Net10k_2
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=R2-2
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R3-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R4-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=V_In Pin=R1-2
+Added Pin To Net: NetName=V_In Pin=R2-1
+Added Net: Name=V_In
+Added Pin To Net: NetName=V_Out Pin=10uc-2
+Added Pin To Net: NetName=V_Out Pin=B2-1
+Added Pin To Net: NetName=V_Out Pin=B2-2
+Added Pin To Net: NetName=V_Out Pin=B3-A1
+Added Net: Name=V_Out
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Net: Name=VCC
+Added Class: Name=FirstPart
+Added Room: Name=FirstPart
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
