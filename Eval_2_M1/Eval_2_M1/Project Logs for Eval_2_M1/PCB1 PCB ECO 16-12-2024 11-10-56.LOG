@@ -1,0 +1,32 @@
+Added Component: Designator=B?(SOIC127P780X200-14N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM324NSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm324nsr/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/LM324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM324NSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LM324NSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM324NSR?qs=VBduBm9rCJQcjq4eh95DkA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X06N)
+Added Component: Designator=R?(RESC1005X06N)
+Added Component: Designator=R?(RESC1005X06N)
+Added Pin To Net: NetName=GND Pin=B?-11
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetB?_2 Pin=B?-2
+Added Pin To Net: NetName=NetB?_2 Pin=R?-2
+Added Net: Name=NetB?_2
+Added Pin To Net: NetName=NetB?_3 Pin=B?-3
+Added Pin To Net: NetName=NetB?_3 Pin=R?-2
+Added Net: Name=NetB?_3
+Added Pin To Net: NetName=Vin Pin=R?-1
+Added Net: Name=Vin
+Added Pin To Net: NetName=VS+ Pin=B?-4
+Added Pin To Net: NetName=VS+ Pin=C?-1
+Added Net: Name=VS+
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

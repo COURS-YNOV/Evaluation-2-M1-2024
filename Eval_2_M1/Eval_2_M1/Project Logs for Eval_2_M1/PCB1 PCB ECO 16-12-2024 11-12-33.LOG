@@ -1,0 +1,29 @@
+Added Component: Designator=B1(SOIC127P780X200-14N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM324NSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm324nsr/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/LM324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM324NSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LM324NSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM324NSR?qs=VBduBm9rCJQcjq4eh95DkA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPC1005X06N)
+Added Component: Designator=R1(RESC1005X06N)
+Added Component: Designator=R2(RESC1005X06N)
+Added Pin To Net: NetName=VS+ Pin=B1-4
+Added Pin To Net: NetName=GND Pin=B1-11
+Added Pin To Net: NetName=VS+ Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=Vin Pin=R2-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=R1-2
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_3 Pin=R2-2
+Added Net: Name=NetB1_3
+Added Member To Class: ClassName=Sheet1 Member=Component B1 LM324NSR
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Value
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Value
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Value
+Added Room: Name=Sheet1
