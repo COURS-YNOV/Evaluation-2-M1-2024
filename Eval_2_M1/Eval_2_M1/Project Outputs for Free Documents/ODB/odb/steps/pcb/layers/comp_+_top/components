@@ -1,0 +1,264 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+
+#
+#Component attribute text strings
+#
+
+# CMP 0
+CMP 1 41.8249989 9.1250008 270 N J2 ADC-028-1-T/R ;0=1,1=0.0000
+PRP Geometry.Height '6mm'
+PRP Manufacturer_Name 'Same Sky'
+PRP Manufacturer_Part_Number 'ADC-028-1-T/R'
+PRP Mouser_Part_Number '737-ADC-028-1-T/R'
+PRP Mouser_Price/Stock 'https://www.mouser.fr/ProductDetail/Adam-Tech/ADC-028-1-T-R?qs=TTVbHWoAP%2FSiqsZeR9Co0Q%3D%3D'
+TOP 0 45.12499992 14.77499966 180 N 1 1 1
+TOP 1 37.12499814 11.87500038 180 N 12 22 2
+TOP 2 37.12499814 14.77499966 180 N 12 21 3
+TOP 3 43.82499998 6.87500022 270 N 0 6 MH1
+TOP 4 39.82499782 6.87500022 270 N 0 5 MH2
+#
+# CMP 1
+CMP 4 14.10000228 30.99999896 270 N R6 Value ;0=1,1=0.5500
+TOP 0 14.10000228 30.54999986 180 N 7 1 1
+TOP 1 14.10000228 31.4500006 180 N 12 15 2
+#
+# CMP 2
+CMP 4 14.00000248 27.12500036 270 N R5 Value ;0=1,1=0.5500
+TOP 0 14.00000248 26.67500126 180 N 8 1 1
+TOP 1 14.00000248 27.575002 180 N 12 14 2
+#
+# CMP 3
+CMP 4 17.45000066 30.97500028 90 N R4 Value ;0=1,1=0.5500
+TOP 0 17.45000066 31.42499938 0 N 2 1 1
+TOP 1 17.45000066 30.52499864 0 N 7 0 2
+#
+# CMP 4
+CMP 4 9.67500224 22.724999 270 N R3 Value ;0=1,1=0.5500
+TOP 0 9.67500224 22.2749999 180 N 14 2 1
+TOP 1 9.67500224 23.17500064 180 N 8 2 2
+#
+# CMP 5
+CMP 4 11.15000056 22.724999 270 N R2 1K ;0=1,1=0.5500
+TOP 0 11.15000056 22.2749999 180 N 10 0 1
+TOP 1 11.15000056 23.17500064 180 N 14 0 2
+#
+# CMP 6
+CMP 4 32.17500042 24.14999996 90 N R1 10K ;0=1,1=0.5500
+TOP 0 32.17500042 24.59999906 0 N 11 2 1
+TOP 1 32.17500042 23.69999832 0 N 13 3 2
+#
+# CMP 7
+CMP 9 6.77500042 22.7749989 0 N Q3 BCW66GLT3G ;0=1,1=0.0000
+PRP Arrow_Part_Number 'BCW66GLT3G'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/bcw66glt3g/on-semiconductor?region=europe'
+PRP Datasheet_Link 'http://www.onsemi.com/pub/Collateral/BCW66GLT1-D.PDF'
+PRP Geometry.Height '1.11mm'
+PRP Manufacturer_Name 'onsemi'
+PRP Manufacturer_Part_Number 'BCW66GLT3G'
+PRP Mouser_Part_Number '863-BCW66GLT3G'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/onsemi/BCW66GLT3G?qs=XfkxeqX9xWXeTiewInI3Nw%3D%3D'
+TOP 0 5.57500028 23.72999826 0 N 9 0 1
+TOP 1 5.57500028 21.81999954 0 N 3 1 2
+TOP 2 7.97500056 22.7749989 0 N 14 1 3
+#
+# CMP 8
+CMP 3 8.02500046 29.84999872 90 N K IM06GR ;0=1,1=0.0000
+PRP Availability 'Unavailable'
+PRP MF 'TE Connectivity'
+PRP MP 'IM06GR'
+PRP Package 'None'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/IM06GR/TE%20Connectivity%20Potter%20%26%20Brumfield%20Relays/view-part/264147/?ref=snap'
+PRP TE_purchase_URL 'https://www.te.com/usa-en/product-2-1462037-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493'
+PRP Value ''
+TOP 0 11.82500048 32.8499978 90 N 12 12 1
+TOP 1 8.62499926 32.8499978 90 N 5 1 2
+TOP 2 6.42500112 32.8499978 90 N 5 0 3
+TOP 3 4.22500044 32.8499978 90 N 9 2 4
+TOP 4 4.22500044 26.84999964 90 N 0 7 5
+TOP 5 6.42500112 26.84999964 90 N 0 8 6
+TOP 6 8.62499926 26.84999964 90 N 0 9 7
+TOP 7 11.82500048 26.84999964 90 N 3 2 8
+#
+# CMP 9
+CMP 1 10.05000022 9.2750005 270 N J1 ADC-028-1-T/R ;0=1,1=0.0000
+PRP Geometry.Height '6mm'
+PRP Manufacturer_Name 'Same Sky'
+PRP Manufacturer_Part_Number 'ADC-028-1-T/R'
+PRP Mouser_Part_Number '737-ADC-028-1-T/R'
+PRP Mouser_Price/Stock 'https://www.mouser.fr/ProductDetail/Adam-Tech/ADC-028-1-T-R?qs=TTVbHWoAP%2FSiqsZeR9Co0Q%3D%3D'
+TOP 0 13.35000124 14.92499936 180 N 6 1 1
+TOP 1 5.34999946 12.02500008 180 N 12 17 2
+TOP 2 5.34999946 14.92499936 180 N 12 16 3
+TOP 3 12.0500013 7.02499992 270 N 0 4 MH1
+TOP 4 8.04999914 7.02499992 270 N 0 3 MH2
+#
+# CMP 10
+CMP 7 7.40000044 19.12499858 0 N D3 BZT52-C5V1-QX ;0=1,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://assets.nexperia.com/documents/data-sheet/BZT52-Q_SER.pdf'
+PRP Geometry.Height '1.3mm'
+PRP Manufacturer_Name 'Nexperia'
+PRP Manufacturer_Part_Number 'BZT52-C5V1-QX'
+PRP Mouser_Part_Number '771-BZT52-C5V1-QX'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Nexperia/BZT52-C5V1-QX?qs=rQFj71Wb1eWpKfJh0U4RGA%3D%3D'
+TOP 0 5.7500012 19.12499858 0 N 3 3 1
+TOP 1 9.04999968 19.12499858 0 N 6 0 2
+#
+# CMP 11
+CMP 6 15.8250001 31.14999866 90 N D2 LED-GREEN ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Color 'Green'
+PRP Depth '0.8mm'
+PRP Dominant_Wavelength '569nm'
+PRP Forward_Current '30mA'
+PRP Forward_Voltage '2.1V'
+PRP Height '0.8mm'
+PRP Illumination_Color 'Green'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Lens_Color 'Colorless'
+PRP Lens_Style 'Clear'
+PRP Lens_Transparency 'Clear'
+PRP Luminous_Intensity '6mcd'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Elements '1'
+PRP Number_of_LEDs '1'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Dissipation '100mW'
+PRP Power_Rating '100mW'
+PRP Radiation_Hardening 'No'
+PRP Reverse_Voltage '5V'
+PRP Test_Current '10mA'
+PRP Viewing_Angle '130°'
+PRP Voltage '2V'
+PRP Wavelength '565nm'
+PRP Width '0.8mm'
+TOP 0 15.8250001 31.89999716 90 N 12 23 1
+TOP 1 15.8250001 30.39999762 90 N 7 2 2
+#
+# CMP 12
+CMP 6 15.7750002 27.54999824 90 N D1 LED-GREEN ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Color 'Green'
+PRP Depth '0.8mm'
+PRP Dominant_Wavelength '569nm'
+PRP Forward_Current '30mA'
+PRP Forward_Voltage '2.1V'
+PRP Height '0.8mm'
+PRP Illumination_Color 'Green'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Lens_Color 'Colorless'
+PRP Lens_Style 'Clear'
+PRP Lens_Transparency 'Clear'
+PRP Luminous_Intensity '6mcd'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Elements '1'
+PRP Number_of_LEDs '1'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Dissipation '100mW'
+PRP Power_Rating '100mW'
+PRP Radiation_Hardening 'No'
+PRP Reverse_Voltage '5V'
+PRP Test_Current '10mA'
+PRP Viewing_Angle '130°'
+PRP Voltage '2V'
+PRP Wavelength '565nm'
+PRP Width '0.8mm'
+TOP 0 15.7750002 28.29999674 90 N 12 13 1
+TOP 1 15.7750002 26.7999972 90 N 8 0 2
+#
+# CMP 13
+CMP 0 3.95000226 18.72499938 90 N C3 100__F ;0=1,1=0.5500
+TOP 0 3.95000226 19.18499846 0 N 3 0 1
+TOP 1 3.95000226 18.26499776 0 N 12 10 2
+#
+# CMP 14
+CMP 0 3.92500104 22.6249992 90 N C2 100__F ;0=1,1=0.5500
+TOP 0 3.92500104 23.08499828 0 N 9 1 1
+TOP 1 3.92500104 22.16499758 0 N 12 11 2
+#
+# CMP 15
+CMP 0 12.72500122 22.7749989 270 N C1 100n ;0=1,1=0.5500
+TOP 0 12.72500122 22.31499982 180 N 10 1 1
+TOP 1 12.72500122 23.23500052 180 N 11 0 2
+#
+# CMP 16
+CMP 2 28.24999938 20.42499852 180 N B3 PTV112-4420A-B104 ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://www.bourns.com/docs/Product-Datasheets/PTVPTT.pdf'
+PRP Geometry.Height '20.5mm'
+PRP Manufacturer_Name 'Bourns'
+PRP Manufacturer_Part_Number 'PTV112-4420A-B104'
+PRP Mouser_Part_Number '652-PTV1124420AB104'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Bourns/PTV112-4420A-B104?qs=nqw9FAyaR8PT4wHHFlLdhA%3D%3D'
+TOP 0 28.24999938 20.42499852 180 N 4 0 A1
+TOP 1 30.25000046 20.42499852 180 N 2 0 A2
+TOP 2 20.25000014 20.42499852 180 N 12 7 A3
+TOP 3 26.2499983 20.42499852 180 N 0 0 B1
+TOP 4 24.24999976 20.42499852 180 N 0 1 B2
+TOP 5 22.24999868 20.42499852 180 N 0 2 B3
+TOP 6 31.04999886 9.42499766 180 N 12 8 MH1
+TOP 7 19.4499992 9.42499766 180 N 12 9 MH2
+#
+# CMP 17
+CMP 5 29.37500094 24.10000006 180 N B2 NB12K00103JBB ;0=1,1=0.0000
+PRP Arrow_Part_Number 'NB12K00103JBB'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/nb12k00103jbb/avx'
+PRP Datasheet_Link 'https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA6/551314.pdf'
+PRP Geometry.Height '0.5mm'
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number 'NB12K00103JBB'
+PRP Mouser_Part_Number '581-NB12K00103JBB'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/AVX/NB12K00103JBB/?qs=4%252B6%252BTdINQeDPvI%252BQUQjJ3Q%3D%3D'
+TOP 0 30.52500118 24.10000006 90 N 13 0 1
+TOP 1 28.2250007 24.10000006 90 N 4 1 2
+#
+# CMP 18
+CMP 8 27.85000018 32.2999989 270 N B1 LM324NSR ;0=1,1=0.0000
+PRP Arrow_Part_Number 'LM324NSR'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/lm324nsr/texas-instruments?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'http://www.ti.com/lit/gpn/LM324'
+PRP Geometry.Height '2mm'
+PRP Manufacturer_Name 'Texas Instruments'
+PRP Manufacturer_Part_Number 'LM324NSR'
+PRP Mouser_Part_Number '595-LM324NSR'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM324NSR?qs=VBduBm9rCJQcjq4eh95DkA%3D%3D'
+TOP 0 24.04000018 28.73799942 270 N 1 0 1
+TOP 1 25.31000018 28.73799942 270 N 4 2 2
+TOP 2 26.58000018 28.73799942 270 N 12 18 3
+TOP 3 27.85000018 28.73799942 270 N 13 1 4
+TOP 4 29.12000018 28.73799942 270 N 0 10 5
+TOP 5 30.39000018 28.73799942 270 N 0 11 6
+TOP 6 31.66000018 28.73799942 270 N 0 12 7
+TOP 7 31.66000018 35.86199838 270 N 0 13 8
+TOP 8 30.39000018 35.86199838 270 N 0 14 9
+TOP 9 29.12000018 35.86199838 270 N 0 15 10
+TOP 10 27.85000018 35.86199838 270 N 12 19 11
+TOP 11 26.58000018 35.86199838 270 N 11 1 12
+TOP 12 25.31000018 35.86199838 270 N 12 20 13
+TOP 13 24.04000018 35.86199838 270 N 13 2 14
+#

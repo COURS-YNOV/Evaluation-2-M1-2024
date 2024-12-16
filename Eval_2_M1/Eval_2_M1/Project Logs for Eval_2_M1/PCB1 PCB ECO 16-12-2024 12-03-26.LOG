@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VOUT Pin=B1-1
+Added Component: Designator=J2(PJ1021SMTTR)
+Add component (AddParameter): Name = "Geometry.Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADC-028-1-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "737-ADC-028-1-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.fr/ProductDetail/Adam-Tech/ADC-028-1-T-R?qs=TTVbHWoAP%2FSiqsZeR9Co0Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=J2-1
+Added Net: Name=NetB1_1
+Added Member To Class: ClassName=Sheet1 Member=Component J2 ADC-028-1-T/R
+Added Room: Name=Sheet1
